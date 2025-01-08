@@ -42,8 +42,19 @@
   <img src="https://github.com/user-attachments/assets/8f6caf7e-d806-42b5-90d6-f47ee8b3e134" width=900 ><br/>
 </p> <br>
 
+<h4> On the Doctor Management Page, you can create doctor accounts and view the list of doctors.</h4>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/549d8627-e1eb-4dd3-80c1-d50b8bfeb44a" width=900 ><br/>
+  <img src="https://github.com/user-attachments/assets/1283c950-cfcf-4204-aded-26ed0c273c3b" width=900 ><br/>
+</p> <br>
 
-![image]()
+<h4> When clicking on "Medical Appointment," the schedule of that doctor will be displayed.</h4>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78a49e42-a1ab-492a-b5a6-f2213b258cf1" width=900 ><br/>
+</p> <br>
+
+
+
 
 
 
